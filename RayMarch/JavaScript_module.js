@@ -37,6 +37,6 @@ export class RayMarch {
             *(M_D.B2.X-this.X)^2+(M_D.B2.Y-this.Y)^2+(M_D.B2.Z-this.Z)^2  	  //Ball2 (Intersect)
             *(M_D.B3.X-this.X)^2+(M_D.B3.Y-this.Y)^2+(M_D.B3.Z-this.Z)^2) 	  //Ball3 (Intersect)
             *(M_D.Size)                                                		  //Size
-		 // You can keep extending it supports unlimited.	
+		// You can keep extending it supports unlimited.	
 	}
 }
